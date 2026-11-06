@@ -1,0 +1,5 @@
+! Title: throwi3's hltv "brain" removel
+! Expires: 4 days
+www.hltv.org##.nav-brain.nav-brain-pinned.nav-brain-locked
+www.hltv.org##.standard-box.brainbriefing
+www.hltv.org##.nav-brain.nav-brain-inline.nav-brain-locked
