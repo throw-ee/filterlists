@@ -3,3 +3,4 @@
 www.hltv.org##.nav-brain.nav-brain-pinned.nav-brain-locked
 www.hltv.org##.standard-box.brainbriefing
 www.hltv.org##.nav-brain.nav-brain-inline.nav-brain-locked
+www.hltv.org##.simulated-veto-toggle
